@@ -4,7 +4,7 @@
   "version": "${version}",
   "name": "Jump Reset Indicator",
   "description": "Informs the player on how close they were to performing a successful jump reset.",
-  "authors": ["Sootysplash"],
+  "authors": ["Sootysplash", "Alfakynz"],
   "contact": {
     "homepage": "https://github.com/sootysplash",
     "sources": "https://github.com/sootysplash/jump-reset"
